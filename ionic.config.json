@@ -1,0 +1,7 @@
+{
+  "name": "Tarea-3-Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
